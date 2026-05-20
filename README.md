@@ -15,14 +15,3 @@ Atualmente o projeto possui:
 
 Este projeto também serve como laboratório de aprendizado, onde estou estudando arquitetura de código, reutilização de lógica, refatoração e abstração de sistemas.
 
-Futuras ideias para o projeto:
-- Sistema de XP e evolução de nível
-- Novas classes e habilidades
-- Sistema de inventário e equipamentos
-- Bosses e múltiplos inimigos
-- Inteligência artificial mais avançada
-- Sistema de missões
-- Salvamento de progresso
-- Interface gráfica futuramente
-
-Projeto criado com objetivo educacional para evolução nos estudos de Java e POO.
